@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="tb1">Nome</string>
+	<string name="tb2">Telefone</string>
+	<string name="tb3">E-mail</string>
+	<string name="btnSalvar">Salvar</string>
+</resources>
